@@ -1,0 +1,33 @@
+{
+    "Serves": 2,
+    "Ingredients": [
+        {
+            "Name": "Chicken Breast",
+            "Quantity": 400
+        },
+        {
+            "Name": "Garlic",
+            "Quantity": 2
+        },
+        {
+            "Name": "Onion",
+            "Quantity": 1
+        },
+        {
+            "Name": "Peppers",
+            "Quantity": 1
+        },
+        {
+            "Name": "Smoked Paprika",
+            "Quantity": 20
+        },
+        {
+            "Name": "Peas",
+            "Quantity": 100
+        },
+        {
+            "Name": "Rice",
+            "Quantity": 200
+        }
+    ]
+}

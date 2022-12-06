@@ -1,0 +1,20 @@
+{
+  "Ingredients": [
+    {
+      "Name": "Mince Beef",
+      "Quantity": "400"
+    },
+    {
+      "Name": "Wraps",
+      "Quantity": "2"
+    },
+    {
+      "Name": "Kidney Beans",
+      "Quantity": "400"
+    },
+    {
+      "Name": "Peppers",
+      "Quantity": "1"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+    "Serves": 2,
+    "Ingredients": [
+        {
+            "Name": "Chicken Thigh",
+            "Quantity": 1000
+        },
+        {
+            "Name": "Garlic",
+            "Quantity": 6
+        },
+        {
+            "Name": "Onion",
+            "Quantity": 1
+        },
+        {
+            "Name": "Tomato Puree",
+            "Quantity": 100
+        },
+        {
+            "Name": "Peeled Tomatoes",
+            "Quantity": 400
+        },
+        {
+            "Name": "Heavy Cream",
+            "Quantity": 50
+        },
+        {
+            "Name": "Spinach",
+            "Quantity": 200
+        },
+        {
+            "Name": "Peas",
+            "Quantity": 100
+        },
+        {
+            "Name": "Curry Powder",
+            "Quantity": 15
+        },
+        {
+            "Name": "Ginger",
+            "Quantity": 15
+        },
+        {
+            "Name": "Chilli Powder",
+            "Quantity": 5
+        },
+        {
+            "Name": "Tumeric",
+            "Quantity": 5
+        },
+        {
+            "Name": "Cayenne",
+            "Quantity": 2
+        },
+        {
+            "Name": "Garam Masala",
+            "Quantity": 15
+        }
+    ]
+}

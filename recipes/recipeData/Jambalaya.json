@@ -1,0 +1,41 @@
+{
+    "Serves": 2,
+    "Ingredients": [
+        {
+            "Name": "Chicken Breast",
+            "Quantity": 400
+        },
+        {
+            "Name": "Kidney Beans",
+            "Quantity": 400
+        },
+        {
+            "Name": "Garlic",
+            "Quantity": 2
+        },
+        {
+            "Name": "Onion",
+            "Quantity": 1
+        },
+        {
+            "Name": "Peppers",
+            "Quantity": 1
+        },
+        {
+            "Name": "Peeled Tomatoes",
+            "Quantity": 400
+        },
+        {
+            "Name": "Chicken Stock",
+            "Quantity": 1
+        },
+        {
+            "Name": "Chorizo",
+            "Quantity": 100
+        },
+        {
+            "Name": "Cajun Seasoning",
+            "Quantity": 20
+        }
+    ]
+}

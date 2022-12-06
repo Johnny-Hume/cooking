@@ -1,0 +1,53 @@
+{
+    "Serves": 2,
+    "Ingredients": [
+        {
+            "Name": "Chicken Breast",
+            "Quantity": 400
+        },
+        {
+            "Name": "Pasta",
+            "Quantity": 400
+        },
+        {
+            "Name": "Garlic",
+            "Quantity": 3
+        },
+        {
+            "Name": "Shallot",
+            "Quantity": 1
+        },
+        {
+            "Name": "Plum Tomatoes",
+            "Quantity": 200
+        },
+        {
+            "Name": "Parm",
+            "Quantity": 100
+        },
+        {
+            "Name": "White Wine",
+            "Quantity": 200
+        },
+        {
+            "Name": "Lemon",
+            "Quantity": 1
+        },
+        {
+            "Name": "Spinach",
+            "Quantity": 200
+        },
+        {
+            "Name": "Chives",
+            "Quantity": 10
+        },
+        {
+            "Name": "Olive Oil",
+            "Quantity": 50
+        },
+        {
+            "Name": "Salt",
+            "Quantity": 1
+        }
+    ]
+}

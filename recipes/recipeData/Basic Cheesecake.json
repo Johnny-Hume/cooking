@@ -1,0 +1,28 @@
+{
+    "Ingredients": [
+        {
+            "Name": "Digestives",
+            "Quantity": "250"
+        },
+        {
+            "Name": "Butter",
+            "Quantity": "100"
+        },
+        {
+            "Name": "Vanilla",
+            "Quantity": "10"
+        },
+        {
+            "Name": "Cream Cheese",
+            "Quantity": "600"
+        },
+        {
+            "Name": "Icing Sugar",
+            "Quantity": "100"
+        },
+        {
+            "Name": "Heavy Cream",
+            "Quantity": "250"
+        }
+    ]
+}

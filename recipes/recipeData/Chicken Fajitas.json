@@ -1,0 +1,41 @@
+{
+    "Serves": 2,
+    "Ingredients": [
+        {
+            "Name": "Chicken Breast",
+            "Quantity": 400
+        },
+        {
+            "Name": "Onion",
+            "Quantity": 1
+        },
+        {
+            "Name": "Peppers",
+            "Quantity": 2
+        },
+        {
+            "Name": "Wrap",
+            "Quantity": 4
+        },
+        {
+            "Name": "Smoked Paprika",
+            "Quantity": 10
+        },
+        {
+            "Name": "Chilli Powder",
+            "Quantity": 5
+        },
+        {
+            "Name": "Cumin",
+            "Quantity": 5
+        },
+        {
+            "Name": "Garlic Powder",
+            "Quantity": 2
+        },
+        {
+            "Name": "Oregano",
+            "Quantity": 3
+        }
+    ]
+}

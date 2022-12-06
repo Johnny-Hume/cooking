@@ -1,0 +1,49 @@
+{
+    "Serves": 2,
+    "Ingredients": [
+        {
+            "Name": "Chicken Breast",
+            "Quantity": 400
+        },
+        {
+            "Name": "Garlic",
+            "Quantity": 3
+        },
+        {
+            "Name": "Onion",
+            "Quantity": 1
+        },
+        {
+            "Name": "Tomato Puree",
+            "Quantity": 100
+        },
+        {
+            "Name": "Peeled Tomatoes",
+            "Quantity": 400
+        },
+        {
+            "Name": "Heavy Cream",
+            "Quantity": 50
+        },
+        {
+            "Name": "Vodka",
+            "Quantity": 30
+        },
+        {
+            "Name": "Parmesan",
+            "Quantity": 25
+        },
+        {
+            "Name": "Pasta",
+            "Quantity": 400
+        },
+        {
+            "Name": "Basil",
+            "Quantity": 10
+        },
+        {
+            "Name": "Paprika",
+            "Quantity": 20
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "Ingredients": [
+        {
+            "Name": "Chicken Breast",
+            "Quantity": "600"
+        },
+        {
+            "Name": "Tumeric",
+            "Quantity": "5"
+        },
+        {
+            "Name": "Smoked Paprika",
+            "Quantity": "5"
+        },
+        {
+            "Name": "Garam Masala",
+            "Quantity": "5"
+        },
+        {
+            "Name": "Ginger",
+            "Quantity": "15"
+        },
+        {
+            "Name": "Garlic",
+            "Quantity": "3"
+        },
+        {
+            "Name": "Heavy Cream",
+            "Quantity": "40"
+        },
+        {
+            "Name": "Onion",
+            "Quantity": "1"
+        },
+        {
+            "Name": "Butter",
+            "Quantity": "20"
+        },
+        {
+            "Name": "Peeled Tomatoes",
+            "Quantity": "400"
+        }
+    ]
+}
