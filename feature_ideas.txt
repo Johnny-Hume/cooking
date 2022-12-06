@@ -1,0 +1,12 @@
+Add input for minimum required headers so code doesn't need changed
+Add options to either build list or place order
+How far can the order go
+Randomize recipes
+Stock checker
+Parallel calls
+Add recipe by cli
+    Name
+    Then loop through item name and amount
+Suggest recipes based on waste
+Add spices and non perishables to list so they're not included in waste
+Clear basket button
